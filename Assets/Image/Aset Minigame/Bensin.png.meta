@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 2b3ae2484906fd446afad1da90e22846
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.654484, y: 0.49120027}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 115, y: 374, z: 1145, w: 402}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bensin_0
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 643
+        width: 234
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96736eab2d72c23488f344ffc1c2e2c6
+      internalID: -368772181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 637
+        width: 223
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fbefc92faa1924696d4474b53c6a95
+      internalID: -1061414477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_2
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 637
+        width: 204
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b826fab1edd349a20abfb11a8adf6
+      internalID: 1533606648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_3
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 638
+        width: 217
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83a5c958e56ef9418c5e7d30b4deb6c
+      internalID: -910000788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 413
+        width: 234
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5498ab8a7e95a47a24d73d74e91e98
+      internalID: -1516832782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 412
+        width: 220
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54690c3b515de3047bbba6193f5ca641
+      internalID: 1430093924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 412
+        width: 205
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcc8a074532314dbdd9d2e3728c544
+      internalID: 191399304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_7
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 413
+        width: 219
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4e685ff2b69c43aba5931331b0aac
+      internalID: 1881233471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 176
+        width: 239
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a259623f23919541adb510fe7004749
+      internalID: 430083841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 175
+        width: 223
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205d5bcb93d7c74da45e443fce135df
+      internalID: -1050200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_10
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 174
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b19fda8c7bc5f04889279d689672c2b
+      internalID: 918981916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bensin_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 177
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fd3c54b4e6574ea2189b45665f06c
+      internalID: -2124164869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 95, y: 111}
+      - {x: 95, y: 208}
+      - {x: 129, y: 208}
+      - {x: 129, y: 111}
+    - - {x: -254, y: 125}
+      - {x: -254, y: 322}
+      - {x: -12, y: 322}
+      - {x: -12, y: 125}
+    - - {x: 252, y: 124}
+      - {x: 252, y: 324}
+      - {x: 454, y: 324}
+      - {x: 454, y: 124}
+    - - {x: 464, y: 126}
+      - {x: 464, y: 324}
+      - {x: 685, y: 324}
+      - {x: 685, y: 126}
+    - - {x: -249, y: -97}
+      - {x: -249, y: 110}
+      - {x: -18, y: 110}
+      - {x: -18, y: -97}
+    - - {x: 4, y: -101}
+      - {x: 4, y: 109}
+      - {x: 233, y: 109}
+      - {x: 233, y: -101}
+    - - {x: 254, y: -101}
+      - {x: 254, y: 110}
+      - {x: 453, y: 110}
+      - {x: 453, y: -101}
+    - - {x: 469, y: -101}
+      - {x: 469, y: 107}
+      - {x: 685, y: 107}
+      - {x: 685, y: -101}
+    - - {x: -253, y: -335}
+      - {x: -253, y: -118}
+      - {x: -10, y: -118}
+      - {x: -10, y: -335}
+    - - {x: 8, y: -337}
+      - {x: 8, y: -121}
+      - {x: 232, y: -121}
+      - {x: 232, y: -337}
+    - - {x: 244, y: -338}
+      - {x: 244, y: -120}
+      - {x: 454, y: -120}
+      - {x: 454, y: -338}
+    - - {x: 469, y: -336}
+      - {x: 469, y: -118}
+      - {x: 689, y: -118}
+      - {x: 689, y: -336}
+    - - {x: -683, y: -144}
+      - {x: -683, y: 152}
+      - {x: -319, y: 152}
+      - {x: -319, y: -144}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bensin_0: -368772181
+      Bensin_1: -1061414477
+      Bensin_10: 918981916
+      Bensin_11: -2124164869
+      Bensin_2: 1533606648
+      Bensin_3: -910000788
+      Bensin_4: -1516832782
+      Bensin_5: 1430093924
+      Bensin_6: 191399304
+      Bensin_7: 1881233471
+      Bensin_8: 430083841
+      Bensin_9: -1050200605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
